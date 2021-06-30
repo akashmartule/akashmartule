@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+## 🏆 *Github Status*
+
+<img  src="https://github-readme-stats.vercel.app/api?username=shindesuyog&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=shindesuyog&theme=dark" width="48%" >
+<br>

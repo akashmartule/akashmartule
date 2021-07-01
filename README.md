@@ -5,11 +5,11 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Studing at Dr. D. Y. Patil Institute of Techmology.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently Studing at Dr. D. Y. Patil Institute of Technology, Pimpri.
+- 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on web technology.
-- 🤔 I’m looking for help with DSA.
-- 💬 Ask me about Front End.
+- 🤔 I’m looking for help with data science.
+- 💬 Ask me about Front End and python.
 - 😄 Pronouns: He/His .
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
